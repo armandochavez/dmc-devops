@@ -3,3 +3,5 @@
 ## Repositorio de Práctica DevOps_2
 Este repositorio contiene ejercicios para el curso de DevOps.
 Contribución realizada a través de un pull request
+
+Esta es una correcion para el bug DG-14
