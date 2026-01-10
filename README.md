@@ -5,3 +5,6 @@ Este repositorio contiene ejercicios para el curso de DevOps.
 Contribución realizada a través de un pull request
 
 Esta es una correcion para el bug DG-14
+
+# Espacio DevOps Documentation
+![CI Status](https://github.com/armandochavez/dmc-devops/actions/workflows/ci.yml/badge.svg)
