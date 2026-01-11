@@ -1,4 +1,4 @@
-# DMC DevOps 
+# DMC DevOps
 
 ![CI Status](https://github.com/armandochavez/dmc-devops/actions/workflows/ci.yml/badge.svg)
 
