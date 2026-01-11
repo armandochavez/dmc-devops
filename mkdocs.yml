@@ -1,0 +1,5 @@
+site_name: DMC DevOps 
+
+nav:
+  - Inicio: README.md
+  - Instalación Rápida: docs/instalacion-rapida.md
